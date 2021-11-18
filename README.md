@@ -1,5 +1,5 @@
 # verbose-train
 
-after foo branch
+after foo branch pt2
 
 after git merge
